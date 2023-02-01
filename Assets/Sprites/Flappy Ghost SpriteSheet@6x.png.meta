@@ -897,9 +897,9 @@ TextureImporter:
       name: Flappy Ghost SpriteSheet@6x_37
       rect:
         serializedVersion: 2
-        x: 480
+        x: 485
         y: 2018
-        width: 1014
+        width: 1009
         height: 276
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

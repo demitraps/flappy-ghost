@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: 4ed5a768609fa42b2b3999fd80c9eaf0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2362
+        width: 861
+        height: 1538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0301c192c644b8994053d759218d6
+      internalID: 1096946534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_1
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3784
+        width: 165
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd319b8eaddd4b75ad0855ee3fff45a
+      internalID: 481708055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_2
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 3755
+        width: 621
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ccc3d2cfe94f17ad198d26636f989
+      internalID: 118964564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_3
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3787
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a51226cca4f433c93ae453d4ed8c97
+      internalID: 1779093970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_4
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3784
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8dff2a99014a2896ea6b0d6f38880
+      internalID: -39292238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_5
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3784
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c264015ab794d95a3d74cf713e162d
+      internalID: -1612232872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_6
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 3483
+        width: 894
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6191752ed724c2daa90be29deb3e94
+      internalID: 1628194192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_7
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 3552
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5c08e18385463997ebb41046c3de7
+      internalID: -1465893490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_8
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 3552
+        width: 153
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816395aa441724f19bb7d369a8731630
+      internalID: -377081989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_9
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3555
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba764526d01a343369c46d1e8ff4e7b9
+      internalID: -1144731964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_10
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3548
+        width: 538
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31307ec15c0a740378eadb7bb53250df
+      internalID: -926905358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_11
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 3552
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d810b786d88f4ee4b878bdc26981926
+      internalID: 1118627293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_12
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 3315
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab1f91fb48554a869e3ed27e448bd38
+      internalID: 654932044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_13
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3315
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714b1b74530b46a7ae6997939ac3e26
+      internalID: 134627521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_14
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 3315
+        width: 139
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e8a5c16d83464184220fa88c49643
+      internalID: -259547105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_15
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3291
+        width: 175
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56baa046435a34a82b7241eb389b3fb8
+      internalID: -1261160636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_16
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 3315
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3d3d4e70023428c9e57b2ed323e744
+      internalID: 130750460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmUp
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2398
+        width: 245
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff055b00a2544fb487130cf960f0931
+      internalID: -1870980610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmDown
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 2393
+        width: 244
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15c8f4e7a6af40ceadde5902901b954
+      internalID: -629671536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_19
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3037
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91553f035d614ea5915522950a99b69
+      internalID: -1614557456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_20
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3046
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd175ff14e614d3cb437be720e7de00
+      internalID: -1022878593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_21
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2820
+        width: 382
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab2cffd13be40668dbb355f13b52a3
+      internalID: -1736544755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostUp
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 3037
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41a212f6e5b4dd3bb00acc17e4a2d0
+      internalID: 1481670015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_23
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2995
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d323359cf43ef4c4a8102ef782928862
+      internalID: 1983678572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_24
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2894
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a19883111342ccb30429630b22ecc
+      internalID: -298608574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_25
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2938
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656261eb06ae64d769e642170323e681
+      internalID: 677506496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_26
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 2943
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be9571bb968491089655ffc73d66c6
+      internalID: -1010209226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_27
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2938
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c10c62c5804f54a0f7df9ed4cb14c
+      internalID: -1466354560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_28
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2894
+        width: 135
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066b2890a3c5478b898b95ec8da1fca
+      internalID: -280782552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMiddle
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2859
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b33ddb182f9a4ed29a680075d94ec31
+      internalID: -1527873693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_30
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2824
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff350ee0a0e1450cbc7ab0952bf4f22
+      internalID: -1186500754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_31
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2679
+        width: 286
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a74f89cbbfb4e4eb493e00f75e4a3e
+      internalID: -1844817001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_32
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2681
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a23b0b269404d8c97d19aabf95796b
+      internalID: 2131416396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDown
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2699
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f061e140d2b4acf96c8fc34cdf9d20
+      internalID: -121869495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_34
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2548
+        width: 286
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa7637b00a8e433191dda50fcc8449b
+      internalID: 1908535914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_35
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2556
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09cd1e6772145998c4e9a1656b552e
+      internalID: -2023755051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_36
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2413
+        width: 289
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b124efce9fd245cc8072867e2b120e0
+      internalID: -1525996917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_37
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2023
+        width: 1010
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c94d96bc0044b3db2e69580b6a7d34
+      internalID: 1624821885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_38
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2124
+        width: 313
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b1da7bc1de4fe3a1bc6a013d8bd2d
+      internalID: 1929703575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_39
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2139
+        width: 244
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9a485dc1be746dab03d7f8d5654eab
+      internalID: 2084557715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_40
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2131
+        width: 363
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c45695f7c5d4b71b9c4c1fa870a001
+      internalID: -1645409965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_41
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2203
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c47b4df4987b4d2785402f191911ab3
+      internalID: -1527614082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_42
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2114
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec096d87e2c4fd0aa90a5620ee5395
+      internalID: -21042170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_43
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2114
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01413015dae794fde83ccd6b3e0c763e
+      internalID: -9282040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_44
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2114
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda3e6deb275644c3b5b842942134d04
+      internalID: 1829762412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_45
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 2114
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3702e627285452c9ec5e526399bb81
+      internalID: -404662034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_46
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1902
+        width: 314
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e130acab0985b4242bd7bdd96df6e18b
+      internalID: -485677206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_47
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1912
+        width: 363
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14f60a257f24948a9e1728752bd4f6
+      internalID: -1813881875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_48
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 2080
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8b7990ae6ea41c7a0efe67a4a22688
+      internalID: 128977679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_49
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 1968
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05163f45c4ab24e01bfcd245cd946724
+      internalID: -729979099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_50
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1944
+        width: 244
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b23853e7d646f68c313b55ac2fc5e
+      internalID: 1195566831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_51
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2010
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096e1c486cc84478b1af01f90b5726d
+      internalID: 1689867321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Ghost SpriteSheet3@6x_52
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1931
+        width: 62
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9433b54acb7c4157b621664efe26150
+      internalID: -1418751088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEmpty
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 870
+        height: 1542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd19d967fb64407c899bc95466a0b6d
+      internalID: -1944437844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsBig
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1569
+        width: 770
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e66da15d354f0cbb044b4bee2e906
+      internalID: 685913647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 291
+        width: 975
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c33c308a2331403ea0d8f44b5ef9bf8
+      internalID: 1034850242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSmall
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1293
+        width: 940
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525802e77b6b450fa9bb52e86cfb0d0
+      internalID: -1470503946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 165
+        width: 967
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6c9439e52514e0dbbc5d636342868e
+      internalID: -468943911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Moon: -468943911
+      Flappy Ghost SpriteSheet3@6x_5: -1612232872
+      Flappy Ghost SpriteSheet3@6x_26: -1010209226
+      Flappy Ghost SpriteSheet3@6x_43: -9282040
+      Flappy Ghost SpriteSheet3@6x_49: -729979099
+      Flappy Ghost SpriteSheet3@6x_14: -259547105
+      Flappy Ghost SpriteSheet3@6x_41: -1527614082
+      Flappy Ghost SpriteSheet3@6x_46: -485677206
+      ArmUp: -1870980610
+      Flappy Ghost SpriteSheet3@6x_21: -1736544755
+      Flappy Ghost SpriteSheet3@6x_16: 130750460
+      BackgroundEmpty: -1944437844
+      Flappy Ghost SpriteSheet3@6x_31: -1844817001
+      CloudsBig: 685913647
+      CloudsSmall: -1470503946
+      Flappy Ghost SpriteSheet3@6x_13: 134627521
+      Flappy Ghost SpriteSheet3@6x_2: 118964564
+      Flappy Ghost SpriteSheet3@6x_42: -21042170
+      Flappy Ghost SpriteSheet3@6x_7: -1465893490
+      Flappy Ghost SpriteSheet3@6x_19: -1614557456
+      Flappy Ghost SpriteSheet3@6x_30: -1186500754
+      Flappy Ghost SpriteSheet3@6x_9: -1144731964
+      Flappy Ghost SpriteSheet3@6x_15: -1261160636
+      Tomb: 1034850242
+      Flappy Ghost SpriteSheet3@6x_6: 1628194192
+      Flappy Ghost SpriteSheet3@6x_52: -1418751088
+      Flappy Ghost SpriteSheet3@6x_40: -1645409965
+      Flappy Ghost SpriteSheet3@6x_10: -926905358
+      Flappy Ghost SpriteSheet3@6x_45: -404662034
+      Flappy Ghost SpriteSheet3@6x_11: 1118627293
+      Flappy Ghost SpriteSheet3@6x_32: 2131416396
+      Flappy Ghost SpriteSheet3@6x_24: -298608574
+      Flappy Ghost SpriteSheet3@6x_20: -1022878593
+      Flappy Ghost SpriteSheet3@6x_0: 1096946534
+      Flappy Ghost SpriteSheet3@6x_12: 654932044
+      Flappy Ghost SpriteSheet3@6x_25: 677506496
+      Flappy Ghost SpriteSheet3@6x_36: -1525996917
+      Flappy Ghost SpriteSheet3@6x_38: 1929703575
+      Flappy Ghost SpriteSheet3@6x_48: 128977679
+      Flappy Ghost SpriteSheet3@6x_47: -1813881875
+      Flappy Ghost SpriteSheet3@6x_35: -2023755051
+      Flappy Ghost SpriteSheet3@6x_23: 1983678572
+      Flappy Ghost SpriteSheet3@6x_37: 1624821885
+      GhostUp: 1481670015
+      GhostDown: -121869495
+      Flappy Ghost SpriteSheet3@6x_34: 1908535914
+      Flappy Ghost SpriteSheet3@6x_1: 481708055
+      Flappy Ghost SpriteSheet3@6x_3: 1779093970
+      Flappy Ghost SpriteSheet3@6x_8: -377081989
+      Flappy Ghost SpriteSheet3@6x_50: 1195566831
+      ArmDown: -629671536
+      Flappy Ghost SpriteSheet3@6x_27: -1466354560
+      Flappy Ghost SpriteSheet3@6x_28: -280782552
+      Flappy Ghost SpriteSheet3@6x_4: -39292238
+      GhostMiddle: -1527873693
+      Flappy Ghost SpriteSheet3@6x_51: 1689867321
+      Flappy Ghost SpriteSheet3@6x_44: 1829762412
+      Flappy Ghost SpriteSheet3@6x_39: 2084557715
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
