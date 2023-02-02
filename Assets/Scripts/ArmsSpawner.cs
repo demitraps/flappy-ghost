@@ -18,8 +18,6 @@ public class ArmsSpawner : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //we call InstantiateArm to create an arm when starting the game
-        InstantiateArm();
     }
 
     // Update is called once per frame
@@ -28,7 +26,7 @@ public class ArmsSpawner : MonoBehaviour
         timer += Time.deltaTime;
         if (timer >= maxTime)
         {
-            if(!GameManager.gameOver)//check if game over
+            if(!GameManager.gameOver && GameManager.gameHasStarted)//check if is not game over and game has started
             {
                 //respawn arm
             InstantiateArm();
@@ -39,7 +37,7 @@ public class ArmsSpawner : MonoBehaviour
     }
 
     //method for creating a copy of an arm and setting its position
-    void InstantiateArm()
+    public void InstantiateArm()
     {
         //Random.Range provides a random number between 2 numbers provided
         randY = Random.Range(minY, maxY);
